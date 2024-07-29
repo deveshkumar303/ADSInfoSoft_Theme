@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{F03386D1-C9AB-46F8-9286-1E88A067C735}|ADSInfoSoft\\ADSInfoSoft.csproj|solutionrelative:adsinfosoft\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F03386D1-C9AB-46F8-9286-1E88A067C735}|ADSInfoSoft\\ADSInfoSoft.csproj|d:\\projects\\adsinfosoft_theme\\adsinfosoft\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F03386D1-C9AB-46F8-9286-1E88A067C735}|ADSInfoSoft\\ADSInfoSoft.csproj|solutionrelative:adsinfosoft\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F03386D1-C9AB-46F8-9286-1E88A067C735}|ADSInfoSoft\\ADSInfoSoft.csproj|d:\\projects\\adsinfosoft_theme\\adsinfosoft\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F03386D1-C9AB-46F8-9286-1E88A067C735}|ADSInfoSoft\\ADSInfoSoft.csproj|solutionrelative:adsinfosoft\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F03386D1-C9AB-46F8-9286-1E88A067C735}|ADSInfoSoft\\ADSInfoSoft.csproj|d:\\projects\\adsinfosoft_theme\\adsinfosoft\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F03386D1-C9AB-46F8-9286-1E88A067C735}|ADSInfoSoft\\ADSInfoSoft.csproj|solutionrelative:adsinfosoft\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F03386D1-C9AB-46F8-9286-1E88A067C735}|ADSInfoSoft\\ADSInfoSoft.csproj|d:\\projects\\adsinfosoft_theme\\adsinfosoft\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F03386D1-C9AB-46F8-9286-1E88A067C735}|ADSInfoSoft\\ADSInfoSoft.csproj|solutionrelative:adsinfosoft\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,14 +40,14 @@
               "RelativeDocumentMoniker": "ADSInfoSoft\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Projects\\ADSInfoSoft_Theme\\ADSInfoSoft\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ADSInfoSoft\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADMAAABEAAAA",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAAAF0AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T04:48:16.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Projects\\ADSInfoSoft_Theme\\ADSInfoSoft\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ADSInfoSoft\\Views\\_ViewImports.cshtml",
@@ -55,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Projects\\ADSInfoSoft_Theme\\ADSInfoSoft\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ADSInfoSoft\\Views\\_ViewStart.cshtml",
@@ -67,15 +71,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Projects\\ADSInfoSoft_Theme\\ADSInfoSoft\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ADSInfoSoft\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Projects\\ADSInfoSoft_Theme\\ADSInfoSoft\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ADSInfoSoft\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T04:47:06.361Z"
+              "WhenOpened": "2024-07-29T04:47:06.361Z",
+              "EditorCaption": ""
             }
           ]
         }

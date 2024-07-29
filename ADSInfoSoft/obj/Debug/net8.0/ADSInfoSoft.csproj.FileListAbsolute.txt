@@ -94,3 +94,4 @@ D:\Projects\ADSInfoSoft_Theme\ADSInfoSoft\obj\Debug\net8.0\refint\ADSInfoSoft.dl
 D:\Projects\ADSInfoSoft_Theme\ADSInfoSoft\obj\Debug\net8.0\ADSInfoSoft.pdb
 D:\Projects\ADSInfoSoft_Theme\ADSInfoSoft\obj\Debug\net8.0\ADSInfoSoft.genruntimeconfig.cache
 D:\Projects\ADSInfoSoft_Theme\ADSInfoSoft\obj\Debug\net8.0\ref\ADSInfoSoft.dll
+D:\Projects\ADSInfoSoft_Theme\ADSInfoSoft\obj\Debug\net8.0\ADSInfoSoft.sourcelink.json
