@@ -1,0 +1,67 @@
+
+/*.hero .carousel-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+    text-align: right;*/
+    /*position: relative;*/
+    /*background-image: url('../img/adsimages/ADSCloudComputing.png');
+    background-position: left;
+    background-repeat: no-repeat;
+    min-height: 75vh;*/
+    /*padding-top: 60px;*/
+    /*padding: 10px 60px;
+    transition: 0.5s;
+    line-height: 1;
+    margin: 10px;
+}*/
+
+/*.hero .carousel-container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: right;
+    position: relative;
+    min-height: 75vh;
+    padding-top: 60px;
+}
+
+.hero .carousel-container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: right;
+    position: relative;
+    min-height: 75vh;
+    padding-top: 60px;
+}*/
+
+.slide-container {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.adsinfo-slide1 {
+    background-image: url('../assets/img/adsimages/capture.png');
+    /* background-image: url('../assets/img/adsimages/CloudComputing.png');*/
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.adsinfo-slide2 {
+    background-image: url('../assets/img/adsimages/slide1-1400x900.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.adsinfo-slide3 {
+    background-image: url('../assets/img/adsimages/slide2-1400x900.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}

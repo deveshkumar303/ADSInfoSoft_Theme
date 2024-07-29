@@ -1,0 +1,24 @@
+/* Custom CSS */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background: url('https://via.placeholder.com/1920x600') no-repeat center center;
+    background-size: cover;
+    color: white;
+    height: 600px;
+}
+
+    .jumbotron .btn-primary,
+    .jumbotron .btn-secondary {
+        margin-top: 20px;
+    }
+
+section {
+    padding: 60px 0;
+}
+
+footer {
+    margin-top: 40px;
+}
