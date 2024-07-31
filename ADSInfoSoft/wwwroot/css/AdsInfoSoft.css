@@ -3,10 +3,17 @@
  * Always set the map height explicitly to define the size of the div element
  * that contains the map. 
  */
+<<<<<<< HEAD
 /*#gMap {
     height: 100%;
 }
 */
+=======
+#gMap {
+    height: 100%;
+}
+
+>>>>>>> 4df218dff395067e91355d8d7282087056d58f75
 .slide-container {
     --bs-gutter-x: 1.5rem;
     --bs-gutter-y: 0;
@@ -16,7 +23,11 @@
 }
 
 .adsinfo-slide1 {
+<<<<<<< HEAD
     background-image: url('../assets/img/adsimages/Capture.PNG');
+=======
+    background-image: url('../assets/img/adsimages/capture.png');
+>>>>>>> 4df218dff395067e91355d8d7282087056d58f75
     /*background-image: url('../assets/img/adsimages/cc1.png');*/
     /* background-image: url('../assets/img/adsimages/CloudComputing.png');*/
     background-position: center;
@@ -35,6 +46,7 @@
     background-repeat: no-repeat;
 }
 
+<<<<<<< HEAD
 .footer {
     padding-bottom: 10px !important;
 }
@@ -44,3 +56,8 @@
         border-top: none !important;
         text-align: left !important;
     }
+=======
+.adsinfo-footer {
+    height: 50px;
+}
+>>>>>>> 4df218dff395067e91355d8d7282087056d58f75
